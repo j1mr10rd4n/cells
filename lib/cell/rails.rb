@@ -53,3 +53,6 @@ module Cell
     include DSL
   end
 end
+
+require 'cell/rails/helper_api'
+require 'cell/rails/view_model'
